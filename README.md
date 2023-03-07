@@ -14,6 +14,8 @@ mainPanel---the plot will show the relationship between ladder score and logged 
 In the "happiness and healthy life expectancy" page:       
 widget---User can select region they want to show with healthy life expectancy and ladder score data          
 mainPanel---the table will show different region's mean healthy life expectancy and ladder score data, the table below will also show some           
-regions with the highest average ladder score and the lowest average ladder score           
+regions with the highest average ladder score and the lowest average ladder score            
+         
+I spent more than 12 hours on this ps
 
 Link to the project:
