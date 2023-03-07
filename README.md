@@ -18,4 +18,4 @@ regions with the highest average ladder score and the lowest average ladder scor
          
 I spent more than 12 hours on this ps
 
-Link to the project:
+Link to the project:https://songshi.shinyapps.io/ps06-shiny-app-ShisongGong/ 
